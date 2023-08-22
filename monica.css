@@ -1,0 +1,67 @@
+h1{
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-color: aqua;
+}
+
+.nama{
+    color: aquamarine;
+}
+
+.panggilan{
+    color: cornflowerblue;
+}
+
+.umur{
+    color: darkcyan;
+}
+
+.tanggal lahir{
+    color: darkgray;
+}
+
+.alamat{
+    color: darkkhaki;
+}
+
+.hobi{
+    color: rosybrown;
+}
+
+.cita-cita{
+    color: darkseagreen;
+}
+
+.no.telp{
+    color: darkslategray;
+}
+
+.kewarganegaraan{
+    color: darkturquoise;
+}
+
+.agama{
+    color: blueviolet;
+}
+
+.pendidikan{
+    color: brown;
+}
+
+.kelas{
+    color: beige;
+}
+
+.quote{
+    color: antiquewhite;
+}
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
